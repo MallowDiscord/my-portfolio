@@ -1,2 +1,2 @@
 
-Copyright © 2022 - [Evander](https://github.com/EvanderInacio)
+Copyright © 2022 - [Frank Jhonson](https://github.com/MallowDiscord)
