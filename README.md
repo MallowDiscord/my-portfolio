@@ -18,7 +18,7 @@ Meu portfolio criado com o objetivo de mostrar meus projetos ao longo da minha c
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
+- HTML 
 - CSS
 - JavaScript
 
