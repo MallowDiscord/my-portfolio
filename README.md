@@ -4,7 +4,7 @@
 
 <br>
 
-![Resultado final do projeto](https://cdn.discordapp.com/attachments/995930920576090216/999083187990970448/po.png)
+![Resultado final do projeto](https://cdn.discordapp.com/attachments/1002261421163294750/1011693144724754472/unknown.png)
 
 <br>
 
@@ -35,8 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/MallowDiscord">
-        <img src="https://frank-jhonsonn.web.app/assets/images/eu.png" width="100px;" /><br>
+      <a href="https://github.com/frank-jhonsonn/">
+        <img src="https://cdn.discordapp.com/emojis/1010714789158330389.webp?size=96&quality=lossless" width="100px;" /><br>
         <sub>
           <b>Frank Jhonson</b>
         </sub>
